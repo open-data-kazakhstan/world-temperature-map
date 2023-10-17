@@ -63,4 +63,4 @@ Animations are saved with a smooth transition effect and labeled with the corres
 ## Credits
 Original code by [TyuninaA]
 
-MODIS MOD11A2.061 data source: [[Google EE ] (https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A2)https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A2]
+MODIS MOD11A2.061 data source: [[Google EE ] (https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A2)]
